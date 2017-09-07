@@ -215,13 +215,13 @@ LiveProcess (2005 – 2006)
 + https://github.com/joecianflone
 
 ## Education
-### New Jersey Institute of Technology, Newark, NJ
 
-*September 2002 – May 2005*
+*May 2005*
+### New Jersey Institute of Technology, Newark, NJ
 BS Management/Management Information Systems/eCommerce
 
+*January 2002*
 ### Rutgers University, New Brunswick, NJ
-
-*September 1999 – January 2002 Computer Science & Economics*
+Computer Science & Economics
 
 **Portfolio and references available on request.**
