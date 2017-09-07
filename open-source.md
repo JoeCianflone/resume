@@ -16,3 +16,8 @@ Heisenberg is a toolbox of various projects put together in a sensible way for r
 + https://www.npmjs.com/package/laravel-elixir-sass-compass
 
 This project used to be located at https://github.com/rynocouse/laravel-elixir-compass but the maintainer had decided he no longer wanted to control the project. I've since taken over and I've released several new versions, with multiple fixes, to the community and has had 17,000+ downloads.
+
+### Laravel-Elixir-Browserify
++ https://github.com/szykra/laravel-elixir-browserify
+
+I've helped the maintainer by removing some blacklisted and out-of-date plugins and helped clean up some of the javascript along the way.
