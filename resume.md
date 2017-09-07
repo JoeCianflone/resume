@@ -1,14 +1,6 @@
 # Joseph T. Cianflone
 http://joecianflone.co
-
-732-771-7056 
-
 joe@cianflone.co
-
-+ https://liveedu.tv/joecianflone
-+ https://www.youtube.com/channel/UCF2kiwbx3jhogRvkTNDkebA/videos
-+ https://twitch.tv/joecianflone
-+ https://github.com/joecianflone
 
 ## Objective
 
@@ -215,6 +207,12 @@ LiveProcess (2005 – 2006)
 + Crafted PHP responsible for view layer of our new platform
 + Architect of LiveProcess 2.0 JS, XHTML, CSS
 + Maintained corporate website
+
+## Links
++ https://liveedu.tv/joecianflone
++ https://www.youtube.com/channel/UCF2kiwbx3jhogRvkTNDkebA/videos
++ https://twitch.tv/joecianflone
++ https://github.com/joecianflone
 
 ## Education
 ### New Jersey Institute of Technology, Newark, NJ
